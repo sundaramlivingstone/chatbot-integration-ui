@@ -150,8 +150,7 @@ const OrganizationSetup = () => {
                     disabled={isLoading}
                     className="inline-flex items-center px-4 py-2 border border-l-0 border-gray-300 rounded-r-md bg-gray-50 hover:bg-gray-100 focus:outline-none focus:ring-1 focus:ring-blue-500"
                   >
-                    <Globe className="w-5 h-5 text-gray-400" />
-                    <span className="ml-2">Fetch</span>
+                    Fetch
                   </button>
                 </div>
               </div>
